@@ -22,7 +22,7 @@ With that said, this model predicts the price of the currency against the polari
 
 There are multiple limitations to my project:
 
-- The computer I work on outside of school does not have significant processing power. It often runs slowly when tasked with large dataset manipulation. This is why I chose to only pull ten tweets a day over only a 30 day span. Additionally, this project is only considered a minimum viable product. I do not want to spend time processing an enormous dataset only to get preliminary results. 
+- The computer I work on outside of school does not have significant processing power. It often runs slowly when tasked with large dataset manipulation. This is why I chose to only pull one hundred tweets a day over only a 30 day span. Additionally, this project is only considered a minimum viable product. I do not want to spend time processing an enormous dataset only to get preliminary results. 
 
 - I am only able to pull the most recent tweets from each day that I analyze, beginning at midnight each day. This is true for both Tweepy and the text scraper I am using. Preferably, data from each day should be random and not pulled at a certain time each day. 
 
@@ -32,8 +32,7 @@ If I had unlimited resources, I would:
 
 - I would input all the closing prices from Ethereum starting in December 2020 until the current date. 
 
-I have myriad next steps. I would like to analyze many different cryptocurrencies, add more features to my learning model such as number of retweets and likes for each tweet to see if these effect coin price, experiment with many different kinds of both supervised and unsupervised machine learning models, and be able to input many more data points. I would also like to attempt to predict future prices of cryptocurrencies based on the data I have gathered. Additionally, I would like to use more data in different ways. I plan to use the subjectivity of tweets to see if this data affects price points. Finally, I would like to see what kind of preprocessing techniques lead to the most accurate results. 
+I have myriad next steps. I would like to analyze many different cryptocurrencies, add more features to my learning model such as number of retweets and likes for each tweet to see if these effect coin price, experiment with many different kinds of both supervised and unsupervised machine learning models, experiment with searching for different query points such as just the string 'eth', and be able to input many more data points. I would also like to attempt to predict future prices of cryptocurrencies based on the data I have gathered. Additionally, I would like to use more data in different ways. I plan to use the subjectivity of tweets to see if this data affects price points. Finally, I would like to see what kind of preprocessing techniques lead to the most accurate results. 
 
-I left my API keys on the files so you can easily see my results and play around with my code if you wish. Please let me know if you would like to see more code or more writing examples. 
 
 
