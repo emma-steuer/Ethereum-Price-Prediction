@@ -1,9 +1,6 @@
 # Natural Language Processing With Cryptocurrency
 ## Emma Steuer
 
-
-### The purpose of this project is to predict cryptocurrency prices using natural language processing and machine learning. 
-
 ### For Ellie:
 
 I have four main goals I'd like to get accomplished next semester: 
