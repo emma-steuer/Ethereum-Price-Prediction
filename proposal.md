@@ -3,7 +3,7 @@
 
 ### For Ellie:
 
-I have five main goals I'd like to get accomplished next semester: 
+I have four main goals I'd like to get accomplished next semester: 
 
 - 1. Develop a web page to input user's desire's to see certain cryptocurrency's predictions (I will add a sketch of what I'm hoping for it to look like.)
 
