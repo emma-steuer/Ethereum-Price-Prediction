@@ -1,4 +1,4 @@
-# Natural Language Processing With Cryptocurrency
+# Natural Language Processing With Cryptocurrency (THIS IS AN OLD VERSION OF THIS FILE, IF YOU WISH TO SEE THE UPDATED PROGRAM PLEASE CONTACT ME)
 ## Emma Steuer
 
 
